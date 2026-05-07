@@ -5,7 +5,7 @@
 
 
 ## For Users on Pathfinder@ornl
-[ITSD-pathfinder general guide](https://github.com/ORNL-Ecosystem-Projects/Documentations/wiki/ELM-on-cades%E2%80%90baseline:-environments,-building,-and-running#elm-on-ornl-pathfinder-environments-building-and-running)
+[ITSD-pathfinder general guide](https://github.com/ORNL-Ecosystem-Projects/Documentations/wiki/ELM-on-ORNL-ITSD-Pathfinder:-environments,-building,-and-running#elm-on-ornl-itsd-pathfinder-environments-building-and-running)
 
 ## For Users to use ELM/PFLOTRAN with Docker
 
